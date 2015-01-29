@@ -11,4 +11,4 @@ export HUBOT_FLOWDOCK_LOGIN_EMAIL=midobot@midokura.com
 
 export HUBOT_SLACK_TOKEN=UDfAHpmDtFGL42kYHmqPDSh8
 export HUBOT_SLACK_TEAM=midokura
-export HUBOT_SLACK_BOTNAME=slackbot
+export HUBOT_SLACK_BOTNAME=MidoBot
