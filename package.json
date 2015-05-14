@@ -28,7 +28,7 @@
     "yelp": ">= 0.1.1",
     "underscore": ">= 1.3.3",
     "ntwitter": ">= 0.0.1",
-    "hubot-devops-reactions": ">=0.0.0"
+    "hubot-devops-reactions": ">=0.0.0",
     "hubot-group-alias": ">=0.0.0"
   },
   "engines": {
