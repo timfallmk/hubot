@@ -33,7 +33,8 @@
     "hubot-humanity": ">=0.0.0",
     "hubot-seriouslyguys": ">=0.0.0",
     "hubot-outofcontext": ">=0.0.0",
-    "hubot-soon": ">=0.0.0"
+    "hubot-soon": ">=0.0.0",
+    "hubot-youtube": ">=0.0.0"
   },
   "engines": {
     "node": ">= 0.8.x",
