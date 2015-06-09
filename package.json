@@ -1,6 +1,6 @@
 {
   "name": "hosted-hubot",
-  "version": "2.6.3",
+  "version": "2.13.1",
   "author": "GitHub Inc.",
   "keywords": [
     "github",
@@ -36,7 +36,10 @@
     "hubot-seriouslyguys": ">=0.0.0",
     "hubot-outofcontext": ">=0.0.0",
     "hubot-soon": ">=0.0.0",
-    "hubot-youtube": ">=0.0.0"
+    "hubot-youtube": ">=0.0.0",
+    "hubot-fliptable": ">=0.0.0",
+    "hubot-wolfram": ">=0.0.0",
+    "hubot-redis-brain": ">=0.0.0"
   },
   "engines": {
     "node": ">= 0.8.x",
